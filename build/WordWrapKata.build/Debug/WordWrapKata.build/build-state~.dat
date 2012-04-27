@@ -1,0 +1,226 @@
+TWordWrapKata
+v7
+r0
+t355945318.251808
+cCheck dependencies
+cProcessInfoPlistFile /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Info.plist WordWrapKata-Info.plist
+cCopyStringsFile /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jrichardson/Documents/WordWrapKata/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch.gch WordWrapKata_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/main.o /Users/jrichardson/Documents/WordWrapKata/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKataAppDelegate.o /Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/NSString+WordWrap.o /Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/MacOS/WordWrapKata normal x86_64
+cTouch /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D53E65D000000000000A5E0
+t1297344093
+s42464
+
+N/Users/jrichardson/Documents/WordWrapKata/English.lproj/InfoPlist.strings
+c000000004F870385000000000000002D
+t1334248325
+s45
+
+N/Users/jrichardson/Documents/WordWrapKata/English.lproj/MainMenu.xib
+c000000004F870385000000000002BBA2
+t1334248325
+s179106
+
+N/Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.h
+c000000004F8708150000000000000103
+t1334249493
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m
+c000000004F87137800000000000003C3
+t1334252408
+s963
+i"NSString+WordWrap.h"
+
+N/Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.h
+c000000004F870385000000000000014D
+t1334248325
+s333
+i<Cocoa/Cocoa.h>
+
+N/Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m
+c000000004F8703850000000000000187
+t1334248325
+s391
+i"WordWrapKataAppDelegate.h"
+
+N/Users/jrichardson/Documents/WordWrapKata/WordWrapKata_Prefix.pch
+c000000004F870385000000000000009B
+t1334248325
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app
+t1334252518
+s102
+
+N/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Info.plist
+t1334252509
+s1299
+
+N/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/MacOS/WordWrapKata
+t1334252518
+s15368
+
+N/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/PkgInfo
+t1334252509
+s8
+
+N/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1334252510
+s92
+
+N/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj/MainMenu.nib
+t1334252513
+s34463
+
+N/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/NSString+WordWrap.o
+t1334252517
+s8880
+
+N/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKata.LinkFileList
+c000000004F8713DD000000000000018B
+t1334252509
+s395
+
+N/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKataAppDelegate.o
+t1334252517
+s21240
+
+N/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/main.o
+t1334252517
+s5000
+
+N/Users/jrichardson/Documents/WordWrapKata/main.m
+c000000004F8703850000000000000105
+t1334248325
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch.gch
+t1334252517
+s54306576
+
+NWordWrapKata-Info.plist
+c000000004F87038500000000000003EA
+t1334248325
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355945309#355945309#0(0"0(0#1#0"8730087424#0"0#
+
+CCompileC build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/NSString+WordWrap.o /Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s355945317.717802
+e355945317.807173
+r1
+xCompileC
+xbuild/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/NSString+WordWrap.o
+x/Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m355945317#355945317#0(0"0(0#0#61"/Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m8731750848#1609"    cd /Users/jrichardson/Documents/WordWrapKata    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-generated-files.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-own-target-headers.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-all-target-headers.hmap -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-project-headers.hmap -F/Users/jrichardson/Documents/WordWrapKata/build/Debug -I/Users/jrichardson/Documents/WordWrapKata/build/Debug/include -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources/x86_64 -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources -include /var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch -c /Users/jrichardson/Documents/WordWrapKata/NSString+WordWrap.m -o /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/NSString+WordWrap.o0#
+
+CCompileC build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKataAppDelegate.o /Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s355945317.716873
+e355945317.968844
+r1
+xCompileC
+xbuild/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKataAppDelegate.o
+x/Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m355945317#355945317#0(0"0(0#0#67"/Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m8731860672#1621"    cd /Users/jrichardson/Documents/WordWrapKata    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-generated-files.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-own-target-headers.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-all-target-headers.hmap -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-project-headers.hmap -F/Users/jrichardson/Documents/WordWrapKata/build/Debug -I/Users/jrichardson/Documents/WordWrapKata/build/Debug/include -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources/x86_64 -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources -include /var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch -c /Users/jrichardson/Documents/WordWrapKata/WordWrapKataAppDelegate.m -o /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKataAppDelegate.o0#
+
+CCompileC build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/main.o /Users/jrichardson/Documents/WordWrapKata/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s355945317.699799
+e355945317.870203
+r1
+xCompileC
+xbuild/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/main.o
+x/Users/jrichardson/Documents/WordWrapKata/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/jrichardson/Documents/WordWrapKata/main.m355945317#355945317#0(0"0(0#0#48"/Users/jrichardson/Documents/WordWrapKata/main.m8732297920#1583"    cd /Users/jrichardson/Documents/WordWrapKata    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-generated-files.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-own-target-headers.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-all-target-headers.hmap -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-project-headers.hmap -F/Users/jrichardson/Documents/WordWrapKata/build/Debug -I/Users/jrichardson/Documents/WordWrapKata/build/Debug/include -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources/x86_64 -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources -include /var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch -c /Users/jrichardson/Documents/WordWrapKata/main.m -o /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/jrichardson/Documents/WordWrapKata/English.lproj/MainMenu.xib
+s355945309.190832
+e355945313.356834
+r1
+xCompileXIB
+x/Users/jrichardson/Documents/WordWrapKata/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib355945309#355945313#0(0"0(0#0#68"/Users/jrichardson/Documents/WordWrapKata/English.lproj/MainMenu.xib8731578080#378"    cd /Users/jrichardson/Documents/WordWrapKata    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jrichardson/Documents/WordWrapKata/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s355945309.189952
+e355945310.950165
+r1
+xCopyStringsFile
+x/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings355945309#355945310#0(0"0(0#0#73"/Users/jrichardson/Documents/WordWrapKata/English.lproj/InfoPlist.strings8731628704#376"    cd /Users/jrichardson/Documents/WordWrapKata    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Resources/English.lproj0#
+
+CLd /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/MacOS/WordWrapKata normal x86_64
+s355945317.968977
+e355945318.248440
+r1
+xLd
+x/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/MacOS/WordWrapKata
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/MacOS/WordWrapKata355945317#355945318#0(0"0(0#0#0"8732136288#582"    cd /Users/jrichardson/Documents/WordWrapKata    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jrichardson/Documents/WordWrapKata/build/Debug -F/Users/jrichardson/Documents/WordWrapKata/build/Debug -filelist /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/Objects-normal/x86_64/WordWrapKata.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/MacOS/WordWrapKata0#
+
+CProcessInfoPlistFile /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Info.plist WordWrapKata-Info.plist
+s355945309.186175
+e355945309.189837
+r1
+xProcessInfoPlistFile
+x/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Info.plist
+xWordWrapKata-Info.plist
+lSLF07#2@31"Process WordWrapKata-Info.plist355945309#355945309#0(0"0(0#0#65"/Users/jrichardson/Documents/WordWrapKata/WordWrapKata-Info.plist8732163552#334"    cd /Users/jrichardson/Documents/WordWrapKata    builtin-infoPlistUtility WordWrapKata-Info.plist -genpkginfo /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch.gch WordWrapKata_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s355945313.357230
+e355945317.699616
+r1
+xProcessPCH
+x/var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch.gch
+xWordWrapKata_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile WordWrapKata_Prefix.pch355945313#355945317#0(0"0(0#0#65"/Users/jrichardson/Documents/WordWrapKata/WordWrapKata_Prefix.pch8730090144#1481"    cd /Users/jrichardson/Documents/WordWrapKata    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-generated-files.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-own-target-headers.hmap -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-all-target-headers.hmap -iquote /Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/WordWrapKata-project-headers.hmap -F/Users/jrichardson/Documents/WordWrapKata/build/Debug -I/Users/jrichardson/Documents/WordWrapKata/build/Debug/include -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources/x86_64 -I/Users/jrichardson/Documents/WordWrapKata/build/WordWrapKata.build/Debug/WordWrapKata.build/DerivedSources -c /Users/jrichardson/Documents/WordWrapKata/WordWrapKata_Prefix.pch -o /var/folders/8u/8uJjNHV-EqyZVqLCbL6INE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WordWrapKata_Prefix-gqvpxjuepztiueahtcqltcijkedz/WordWrapKata_Prefix.pch.gch0#
+
+CTouch /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app
+s355945318.248553
+e355945318.251740
+r1
+xTouch
+x/Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app
+lSLF07#2@76"Touch /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app355945318#355945318#0(0"0(0#0#0"8731736576#142"    cd /Users/jrichardson/Documents/WordWrapKata    /usr/bin/touch -c /Users/jrichardson/Documents/WordWrapKata/build/Debug/WordWrapKata.app0#
+
